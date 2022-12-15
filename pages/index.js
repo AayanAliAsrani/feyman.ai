@@ -18,9 +18,7 @@ const Home = () => {
           </div>
         </div>
         <div className="prompt-container">
-        <textarea name="textareatest" rows="4" cols="50">
-Test
-</textarea>
+        <textarea placeholder="start typing here" className="prompt-box" />
         </div>
       </div>
       <div className="badge-container grow">
