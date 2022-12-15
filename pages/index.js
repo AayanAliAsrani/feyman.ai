@@ -17,6 +17,11 @@ const Home = () => {
             <h2>insert your subtitle here</h2>
           </div>
         </div>
+        <div className="prompt-container">
+        <textarea name="textareatest" rows="4" cols="50">
+Test
+</textarea>
+        </div>
       </div>
       <div className="badge-container grow">
         <a
