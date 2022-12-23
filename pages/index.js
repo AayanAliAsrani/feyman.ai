@@ -11,10 +11,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>sup, insert your headline here</h1>
+            <h1>Plagiarism Free Essay Writer</h1>
           </div>
           <div className="header-subtitle">
-            <h2>insert your subtitle here</h2>
+            <h2>Enter the subject of your essay along with word count requirement and format (MLA, APA, Chicago)</h2>
           </div>
         </div>
         <div className="prompt-container">
