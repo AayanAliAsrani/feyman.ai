@@ -42,7 +42,8 @@ const callGenerateEndpoint = async () => {
             <h1>elementary.ai</h1>
           </div>
           <div className="header-subtitle">
-            <h2>elementary level explanations for even the most complex topics</h2>
+            <h2>elementary level explanations for even the most complex concepts
+            </h2>
           </div>
         </div>
       </div>
