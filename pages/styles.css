@@ -95,9 +95,9 @@ body {
     gap: 10px;
     height: 150px;
     overflow: hidden;
-    padding: 20px;
+    padding: 30px;
     position: relative;
-    width: 610px;
+    width: 150px;
     max-width: 1200px;
     will-change: transform;
     overflow: auto;
