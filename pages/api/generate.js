@@ -5,7 +5,7 @@ const configuration = new Configuration({
 });
 
 const openai = new OpenAIApi(configuration);
-const basePromptPrefix = 'Write an explanation of the following topic as if I had the comprehension level of a fifth grader:';
+const basePromptPrefix = 'Write an explanation of the following topic as if I had the comprehension level of a fifth grader, please include citations:';
 const generateAction = async (req, res) => {
   // Run first prompt
   console.log(`API: ${basePromptPrefix}${req.body.userInput}\n`)
