@@ -135,7 +135,7 @@ textarea {
     overflow: hidden;
     padding: 0px;
     position: relative;
-    width: 50%;
+    width: 100%;
 }
 
 .key-stroke {
