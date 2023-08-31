@@ -34,15 +34,15 @@ const callGenerateEndpoint = async () => {
   return (
     <div className="root">
       <Head>
-        <title>elementary.ai</title>
+        <title>feyman.ai</title>
       </Head>
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>elementary.ai</h1>
+            <h1>feyman.ai</h1>
           </div>
           <div className="header-subtitle">
-            <h2>elementary level explanations for even the most complex concepts
+            <h2>kid explanations for tough concepts
             </h2>
           </div>
         </div>
@@ -76,13 +76,13 @@ const callGenerateEndpoint = async () => {
         </div>
       <div className="badge-container grow">
         <a
-          href="https://www.linkedin.com/in/javier-castellon-villanueva"
+          href="https://www.linkedin.com/aayan-ali/"
           target="_blank"
           rel="noreferrer"
         >
         <div className="badge">
         <Image src={buildspaceLogo} alt="buildspace logo" />
-        <p>built by javier</p>
+        <p>built by aayan</p>
       </div>
         </a>
       </div>
